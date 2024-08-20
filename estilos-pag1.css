@@ -1,0 +1,12 @@
+body{
+    background: rgb(209,198,198);
+background: linear-gradient(90deg, rgba(209,198,198,1) 50%, rgba(181,186,190,1) 53%);
+}
+
+div.pr{
+    border: 2px solid black;
+}
+
+h1{
+    font-family: monospace;
+}

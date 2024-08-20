@@ -1,0 +1,16 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid black;
+}
+body{
+    background: rgb(0,212,255);
+background: linear-gradient(90deg, rgba(0,212,255,1) 22%, rgba(47,233,161,1) 57%);
+}
+
+div.pr2{
+    border: 2px solid black;
+}
+
+h2{
+    font-family: cursive;
+}
